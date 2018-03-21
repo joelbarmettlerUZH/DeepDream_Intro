@@ -57,11 +57,10 @@ But Deep Dream seems to have more impact on science than just modelling LSD trip
 References
 ----
 
-[
-Inceptionism: Going Deeper into Neural Networks ](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
-[Feature Visualization - How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)
-[When Robots Hallucinate](https://www.theatlantic.com/technology/archive/2015/09/robots-hallucinate-dream/403498/)
-[Deep dreaming, aberrant salience and psychosis: Connecting the dots by artificial neural networks](http://www.schres-journal.com/article/S0920-9964(17)30029-4/pdf)
+- [Inceptionism: Going Deeper into Neural Networks ](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
+- [Feature Visualization - How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)
+- [When Robots Hallucinate](https://www.theatlantic.com/technology/archive/2015/09/robots-hallucinate-dream/403498/)
+- [Deep dreaming, aberrant salience and psychosis: Connecting the dots by artificial neural networks](http://www.schres-journal.com/article/S0920-9964(17)30029-4/pdf)
 
 
 License
