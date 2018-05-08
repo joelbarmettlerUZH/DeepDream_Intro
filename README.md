@@ -54,6 +54,8 @@ It turns out that the similarity between acid trips and enhanced Neural Network 
 
 But Deep Dream seems to have more impact on science than just modelling LSD trips. Researchers suggest that Deep Dream may model different psychotic phenomena such as aberrant salience, a mechanism suggested for pathogenesis of psychosis that makes it hard to recognize objects, very accurately. Meanwhile, Neural Networks that simulate schizophrenia are being modelled to later examine what neural manipulation was needed to cause the schizophrenic effect. Studies of Artificial Neural Network may illuminate many aspects of brain function in health and disease, as well as dreams and creativity. Increasing understanding of the brain&#39;s circuit dynamics and connectomic alterations in neuropsychiatric disorders make studies of Neural Network models of these illnesses increasingly timely.
 
+*Don't forget to look at my collection of amazing [Deep Dreamed images](https://github.com/joelbarmettlerUZH/DeepDream_Intro/blob/master/Dreams.md)*
+
 References
 ----
 
